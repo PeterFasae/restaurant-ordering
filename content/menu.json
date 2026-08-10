@@ -1,0 +1,58 @@
+{
+  "restaurant": {
+    "name": "The Larder",
+    "area": "Peckham",
+    "collectionMinutes": 25,
+    "deliveryMinutes": 45,
+    "deliveryFeePence": 299,
+    "freeDeliveryOverPence": 3000
+  },
+  "categories": [
+    {
+      "id": "small",
+      "name": "Small plates",
+      "items": [
+        { "id": "s1", "name": "Padrón peppers", "description": "Sea salt, lemon", "pricePence": 650, "tags": ["v"] },
+        { "id": "s2", "name": "Salt cod croquettes", "description": "Four, with aioli", "pricePence": 780, "tags": [] },
+        { "id": "s3", "name": "Burrata", "description": "Datterini tomatoes, basil oil", "pricePence": 1050, "tags": ["v"] },
+        { "id": "s4", "name": "Sourdough and butter", "description": "Cultured butter, sea salt", "pricePence": 450, "tags": ["v"] }
+      ]
+    },
+    {
+      "id": "mains",
+      "name": "Mains",
+      "items": [
+        { "id": "m1", "name": "Roast chicken, half", "description": "Garlic, thyme, chicken fat potatoes", "pricePence": 1850, "tags": [] },
+        { "id": "m2", "name": "Hake", "description": "Brown shrimp butter, greens", "pricePence": 2100, "tags": [] },
+        { "id": "m3", "name": "Mushroom ragù", "description": "Pappardelle, aged parmesan", "pricePence": 1600, "tags": ["v"] },
+        { "id": "m4", "name": "Dry-aged burger", "description": "Ogleshield, pickles, chips", "pricePence": 1750, "tags": [] }
+      ]
+    },
+    {
+      "id": "sides",
+      "name": "Sides",
+      "items": [
+        { "id": "d1", "name": "Chips", "description": "Beef dripping, rosemary salt", "pricePence": 550, "tags": [] },
+        { "id": "d2", "name": "Green salad", "description": "Mustard dressing", "pricePence": 500, "tags": ["v"] },
+        { "id": "d3", "name": "Cavolo nero", "description": "Chilli, garlic", "pricePence": 600, "tags": ["v"] }
+      ]
+    },
+    {
+      "id": "puddings",
+      "name": "Puddings",
+      "items": [
+        { "id": "p1", "name": "Basque cheesecake", "description": "Burnt top, cherry", "pricePence": 750, "tags": ["v"] },
+        { "id": "p2", "name": "Chocolate pot", "description": "Sea salt, olive oil", "pricePence": 700, "tags": ["v"] }
+      ]
+    },
+    {
+      "id": "drinks",
+      "name": "Drinks",
+      "items": [
+        { "id": "b1", "name": "House red, 250ml", "description": "Garnacha, Aragón", "pricePence": 800, "tags": [] },
+        { "id": "b2", "name": "Lager", "description": "Local pilsner, 330ml", "pricePence": 550, "tags": [] },
+        { "id": "b3", "name": "Sparkling water", "description": "750ml", "pricePence": 350, "tags": ["v"] }
+      ]
+    }
+  ]
+}
