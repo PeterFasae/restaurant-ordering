@@ -78,7 +78,8 @@ screen says so.
 
 ## What this is
 
-A reconstruction, built to make the case study inspectable. The original was client work
-for a restaurant through Acumen Digital in 2024, and that code and branding are theirs.
-The problem, the funnel reasoning and the changes are the same; the +22% figure in my
-portfolio is from the real site over its first two months.
+A reconstruction, built to make the problem and the fix inspectable. The original was
+client work for a restaurant through Acumen Digital in 2024, and that code and branding
+are theirs. The problem and the funnel reasoning are real; the +22% orders figure was an
+earlier claim about the real site's results that I can no longer independently verify,
+so it isn't repeated here.
